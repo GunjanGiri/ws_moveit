@@ -42,6 +42,7 @@ This ROS melodic workspace is created on Ubuntu 18.04.  Here I have worked on se
     ./refresh.sh
     make
     ```
+    source ~/ws_moveit/devel/setup.bash
 ---
 
 
@@ -59,6 +60,7 @@ This ROS melodic workspace is created on Ubuntu 18.04.  Here I have worked on se
     
     #### 1. Run default Pick & Place demo of MTC
     > This is the default Pick & Place demo provided by the MTC.
+    (Source the workspace before every Roslaunch)
     ##### Run
     
     ```
